@@ -2,3 +2,5 @@ ffmpeg-python
 opencv-python
 matplotlib
 numpy
+youtube_dl
+ipywidgets
